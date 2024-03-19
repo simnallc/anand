@@ -1,0 +1,14 @@
+directories:
+  - math
+math:
+  - addition.py
+  - subtract.py
+  - multiply.py
+  - dividion.py
+  - prime.py
+  - even.py
+files:
+  - info.yaml
+  - README.md
+  - sampletext.txt
+  - profile.json

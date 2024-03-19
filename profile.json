@@ -1,0 +1,23 @@
+[
+  {
+    "username": "john_doe",
+    "full_name": "John Doe",
+    "email": "john.doe@example.com",
+    "age": 30,
+    "gender": "male",
+    "address": {
+      "street": "123 Main Street",
+      "city": "Anytown",
+      "state": "California",
+      "zipcode": "12345",
+      "country": "USA"
+    },
+    "interests": ["reading", "hiking", "traveling"],
+    "membership": {
+      "status": "active",
+      "type": "premium",
+      "since": "2022-01-01",
+      "expiry": "2023-01-01"
+    }
+  }  
+]
